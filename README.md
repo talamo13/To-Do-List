@@ -1,4 +1,4 @@
-# To Do List Web App
+# To-Do List 
 
  **Technologies:**
   - HTML, CSS, and Javascript
@@ -10,3 +10,5 @@
   - Delete tasks from the list by clicking on the "X" 
   - Saves the users To-Do list despite browser closure or refresh
 
+# Example
+![To-Do List](img/To-Do-List-1.JPG)
